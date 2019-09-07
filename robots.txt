@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vighaewei.smalltextbox.com/sitemap.xml
